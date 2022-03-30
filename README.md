@@ -1,1 +1,1 @@
-CallCenter
+This application simulates the operation of a telephone exchange, which receives connections at random intervals (every 5-10 seconds). Connections are queued, from where they are then picked up by the first master.
