@@ -27,7 +27,7 @@ namespace CallCenter.Models
         private void SetDuration()
         {
             var r = new Random();
-            DurationInSec = r.Next(60, 61);
+            DurationInSec = r.Next(15, 20);
         }
     }
 }
